@@ -22,7 +22,7 @@ const renderTime = ({ remainingTime }) => {
 function Timer() {
 
   const [start, setStart] = useState(false);
-  const [reset, setReset] = useState(0);
+  
 
   const handleStart = () => {
     setStart(true);
