@@ -5,7 +5,7 @@
 .App-logo {
   height: 25vmin;
   pointer-events: none;
-  border: 2px solid red;
+  border: 2px solid white;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -21,7 +21,7 @@
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  border: 2px solid red;
+  border: 2px solid white;
 }
 
 .App-link {
@@ -45,10 +45,10 @@ button {
   color: white;
   text-transform: uppercase;
   border: none;
-  margin: 40px;
-  padding: 20px;
+  margin: 30px;
+  padding: 10px;
   font-size: 16px;
   font-weight: 100;
   cursor: pointer;
-  border: 2px solid red;
+  border: 2px solid white;
 }
